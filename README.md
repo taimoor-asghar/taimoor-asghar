@@ -1,3 +1,4 @@
+![logo](https://github.com/taimoor-asghar/taimoor-asghar/blob/main/Yellow%20Professional%20Gradient%20App%20Development%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Taimoor Asghar</h1>
 <h3 align="center"> 💻 Bridging medicine and technology to revolutionize healthcare.</h3>
 
