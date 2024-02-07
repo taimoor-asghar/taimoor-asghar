@@ -48,14 +48,16 @@
 <div style="clear:both;"></div>
 
 <div>
+  <h3>Top Languages:</h3>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-asghar&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-asghar" /></p>
 </div>
 
 <div>
+  <h3>GitHub Stats:</h3>
   <p><img src="https://github-readme-stats.vercel.app/api?username=taimoor-asghar&show_icons=true&theme=dark&locale=en" alt="taimoor-asghar" /></p>
 </div>
 
 <div>
+  <h3>GitHub Streak:</h3>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-asghar&theme=dark" alt="taimoor-asghar" /></p>
 </div>
-
